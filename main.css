@@ -96,7 +96,7 @@ a {
   margin-bottom: 25px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
   .container {
     background-image: url(../images/pattern-background-mobile.svg);
   }
